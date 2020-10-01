@@ -1,0 +1,48 @@
+Amanda Campos dos Santos RA: 1460682023037
+Isabela Vitória teles de Souza RA: 1460682023025
+
+Amanda Campos / Google Drive.
+Dado: Documentos
+Informação: Um conjunto de documentos.
+Conhecimento: Ultilização de conjuntos de documentos de uma forma que podemos 
+ter uma conclusão sobre eles.
+
+A = 65 = 1000 001
+m = 109 = 1101 101
+a = 97 = 1100 001
+n = 110 = 1101 110
+d = 100 = 1100 100
+a = 97 = 1100 001
+
+S = 83 = 1010 011
+a = 97 = 1100 001
+n = 110 = 1101 110
+t = 116 = 1110 100
+o = 111 = 1101 111
+s = 115 = 1110 011
+
+https://www.microsoft.com/pt-br/
+Protege os dados que colocamos por meio de segurança forte e encriptação.
+
+
+Isabela Souza / Google Fotos
+Dado: Fotos e videos
+Informação: um conjunto de fotos, video ou ambos.
+Conhecimento: A ultilização dos conjuntos de fotos, de uma forma que podemos compreender-los. 
+
+I = 73 = 1001 001
+s = 115 = 1110 011
+a = 97 = 1100 001
+b = 98 = 1100 010
+e = 101 = 1100 101
+l = 108 = 1101 100
+a = 97 = 1100 001
+
+S = 83 = 1010 011
+o = 111 = 1101 111
+u = 117 = 1110 101
+z = 122 = 1111 010
+a = 97 = 1100 001
+
+https://www.google.com/?hl=pt_BR
+A utilização de criptografia para manter os seus dados privados enquanto estão em trânsito;
